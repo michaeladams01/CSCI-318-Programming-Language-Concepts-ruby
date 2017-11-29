@@ -1,5 +1,3 @@
-# Programming Languages, Dan Grossman, Jan-Mar 2013 
-# Section 7: Introduction to Ruby
 
 class Hello
 
