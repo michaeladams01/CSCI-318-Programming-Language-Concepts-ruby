@@ -1,5 +1,5 @@
-# Programming Languages, Dan Grossman, Jan-Mar 2013 
-# Section 7: Arrays Longer Example
+# Programming Languages, Michael Adamsm, November 2017 
+# Arrays Longer Example
 
 a = [3,2,7,9]
 a[2]
